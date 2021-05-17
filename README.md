@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#MAKE SURE TO ADD A KEYS.JS FILE THAT HAS YOUR API KEY (DELETED FROM REPO DUE TO SECURITY ISSUES)
+
 ## Available Scripts
 
 In the project directory, you can run:
